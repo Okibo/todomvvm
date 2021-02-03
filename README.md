@@ -1,10 +1,10 @@
 # Todo list
 
-##Overview
+## Overview
 Todo application that allows user to create list of task that needs to be done.
 All tasks are stored inside SQLite databse
 
-##Functions
+## Functions
 1. Each task has checkbox that can be checked when task is done
 2. Completed tasks can be hidden
 3. Tasks can be sorted by date created or by name
@@ -15,7 +15,7 @@ All tasks are stored inside SQLite databse
 8. Task can be deleted by swiping it right or left
 9. All completed tasks can be deleted at once
 
-##Technologies and patterns
+## Technologies and patterns
 1. Kotlin
 2. Room
 3. Jetpack DataStore
